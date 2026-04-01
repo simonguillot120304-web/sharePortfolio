@@ -34,8 +34,8 @@ limitations under the License.
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <maven.compiler.source>21</maven.compiler.source>
-        <maven.compiler.target>21</maven.compiler.target>
+        <maven.compiler.source>26</maven.compiler.source>
+        <maven.compiler.target>26</maven.compiler.target>
         <sonar.organization>simonguillot120304-web</sonar.organization>
         <sonar.projectKey>simonguillot120304-web_sharePortfolio2</sonar.projectKey>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
